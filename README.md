@@ -7,7 +7,7 @@ Created on Sat Oct 16 22:36:11 2021
 https://ricardolezama.com
 
 """
-
+""" python
 import requests
  # importing the BeautifulSoup library in the program 
 from bs4 import BeautifulSoup 
@@ -68,7 +68,7 @@ def main():
 
 if __name__ == '__main__':
     sys.exit(main())  # 
-
+"""
 
 
 
