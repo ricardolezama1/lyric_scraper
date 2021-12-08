@@ -6,4 +6,5 @@ In my opinion, lyrics provide a window into contemporary terms. Sourcing this co
 
 The highlighted content is what will be retrieved once a list of artists is passed along to the main staments. 
 
-![ZIP_files](https://user-images.githubusercontent.com/11847222/145147595-ceffe467-1da1-4900-986a-a43b78dcb190.JPG)
+
+![letras](https://user-images.githubusercontent.com/11847222/145147666-c1b82da3-c236-4b72-b2ff-dd4e670c2137.JPG)
